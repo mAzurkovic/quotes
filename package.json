@@ -1,0 +1,11 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "An NPM library that offers some famous quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mattias Zurkovic",
+  "license": "ISC"
+}
